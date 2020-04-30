@@ -21,9 +21,10 @@ As I in my current job realized big differences between people concerning their 
 
 Files in the repository:
 - README.txt
-- Project_1.ipynb			Jupyter notebook containing coding and comments for my project (see reference CRISP-DM process in Markdown)
-- Addendum_LRModel.ipynb	Jupyter notebook with an additional application of Linear Models (as taught in the course lessons) on the dataset. For clarification of questions with teachers. 
-- data						Folder with the analyzed dataset
+- Project_1.ipynb				Jupyter notebook containing coding and comments for my project (see reference CRISP-DM process in Markdown)
+- Addendum_LRModel.ipynb		Jupyter notebook with an additional application of Linear Models (as taught in the course lessons) on the dataset. For clarification of questions with teachers. 
+- survey_results_public.csv		The analyzed dataset
+- survey_results_schema.csv		The schema of the analyzed dataset
 
 Related blogpost on medium.com:
 
